@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=WindSong&display=swap');
+
+* {
+    font-family: 'Comfortaa', cursive;
+    background-color: black;
+    color: gold;
+}
+
+.page-header {
+    font-family: 'WindSong', cursive;
+    font-size: 50px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#timer {
+    font-size: 85px !important;
+    font-family: 'WindSong', cursive;
+}
+
+.timer-btn {
+    padding: 10px;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: bisque;
+    border-radius: 10px;
+    border-color: gold;
+}
+
+#start-btn {
+    background-color: gold ;
+    color: black;
+}
+
+#stop-btn {
+    background-color: gold ;
+    color: black;
+}
+
+#reset-btn {
+    background-color: black;
+    color: gold ;
+}
